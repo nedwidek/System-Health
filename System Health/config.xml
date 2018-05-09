@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WatchedItems>
+  <WatchedItem type="device" identifier="usb\vid_121f&amp;pid_0001\6&amp;30c8ca5f&amp;0&amp;6" displayname="Vision X Scanner" />
+  <WatchedItem type="process" identifier="rangerremote" displayname="Ranger Remote" />
+  <WatchedItem type="network" identifier="gateway" displayname="Local Network" />
+  <WatchedItem type="network" identifier="8.8.8.8" displayname="Google DNS" />
+  <WatchedItem type="network" identifier="www.google.com" displayname="Google Server" />
+  <WatchedItem type="url" identifier="http://www.google.com" displayname="Google Website" />
+</WatchedItems>
